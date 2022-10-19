@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-from gendiff.modules.mod_gendiff import parse
+from gendiff.cli import parse
 
 
 def main():
